@@ -1,0 +1,1 @@
+[Nick : 3000, Fred : 1900, Bill : 1500, Abbie : 1300, null : 1100, Jay : 1000, Brian : 800, Brian : 600, Abbie : 500, Brian : 400]
